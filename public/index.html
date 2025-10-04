@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Email Dark Mode Simulator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Email Dark Mode Color Simulator</h1>
+      <p>Preview how different clients transform your color choices between light and dark modes.</p>
+    </header>
+
+    <main>
+      <section class="palette-manager">
+        <h2>Palette Builder &amp; Queue</h2>
+        <p class="section-subtitle">Customize the draft palette below, add it to the queue, then reorder or edit existing palettes to compare scenarios.</p>
+        <div id="paletteList" class="palette-list" aria-live="polite"></div>
+        <div class="palette-global-actions">
+          <button type="button" id="resetPalettes" class="secondary">Clear All Palettes</button>
+        </div>
+      </section>
+
+      <section class="previews">
+        <h2>Scenario Comparison</h2>
+        <div id="scenariosGrid" class="scenarios-grid" aria-live="polite">
+          <p class="empty-state">Add at least one palette to preview how each scenario behaves.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Adjust configurations to explore how email clients might reinterpret your design choices.</p>
+    </footer>
+
+    <script type="module" src="js/prompts.js"></script>
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>

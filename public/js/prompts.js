@@ -1,0 +1,22 @@
+export const FUN_PROMPTS = [
+  'Moonlit owls schedule midnight standups rewriting color tokens while sipping espresso brewed from responsibly harvested stardust.',
+  'Galactic sloths design agile kanban boards for comets, insisting everything moves slower for proper accessibility audits.',
+  'Cybernetic otters sketch responsive navbars on seashells before surfing bioluminescent waves toward design critique bonfires.',
+  'Neon bumblebees prototype hover animations across blooming galaxies, buzzing about keyboard navigation best practices brightly.',
+  'Dapper penguins host polar UX summits comparing serif kerning against fish-shaped sans-serif experiments enthusiastically.',
+  'Steampunk seahorses refactor legacy templates using brass gears, ensuring gradients glide smoother than submarine jazz.',
+  'Time-traveling turtles annotate prehistoric cave murals with sticky notes recommending modern aria-label usage carefully.',
+  'Coffee-addicted raccoons debug nocturnal layouts, hoarding hex swatches inside recycled cold-brew cartons gleefully.',
+  'Opera-singing narwhals conduct usability tests underwater, gauging whether aria roles resonate through kelp forests.',
+  'Meteorologist cats forecast precipitation of pixels, advising umbrellas for unexpected design feedback storms frequently.',
+  'Quantum librarians reorder constellations alphabetically, optimizing cosmic breadcrumb trails for interstellar couriers everywhere.',
+  'Robotic flamingos rehearse synchronized hover states, balancing on one leg while discussing z-index etiquette endlessly.',
+  'Jazz-loving jellyfish wireframe email clients with tentacles, glowing brighter when contrast ratios hit perfect notes.',
+  'Sassy robots host code reviews over ramen, seasoning CSS grids with extra miso variables and semantic toppings.',
+  'Glittery hedgehogs knit dark-mode scarves, weaving gradients with spikes that ensure tactile hover feedback nightly.',
+  'Astral gardeners plant button components like seedlings, watering them with microcopy until tooltips sprout gently.',
+  'Pirate llamas map treasure hunts through style guides, guarding golden primary buttons against rogue gradient marauders.',
+  'Keyboard-wielding koalas refactor fonts from eucalyptus treetops, insisting every headline hugs accessible baselines snugly.',
+  'Synchronized salamanders choreograph scroll-linked animations beneath waterfalls, monitoring scroll progress with waterproof sensors.',
+  'Velvet-voiced foxes narrate changelogs by moonlight, crooning release notes that keep product managers swooning.'
+];
