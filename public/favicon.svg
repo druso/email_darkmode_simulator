@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title>Email skull icon</title>
+  <desc>Combination of an envelope and skull to symbolize dark mode email pain.</desc>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+    <linearGradient id="skullGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e2e8f0" />
+      <stop offset="100%" stop-color="#cbd5f5" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="10" width="56" height="44" rx="8" ry="8" fill="url(#grad)"/>
+  <path d="M12 18l20 16 20-16" fill="none" stroke="#0f172a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="36" r="12" fill="url(#skullGrad)" stroke="#0f172a" stroke-width="3"/>
+  <circle cx="27" cy="34" r="3" fill="#0f172a"/>
+  <circle cx="37" cy="34" r="3" fill="#0f172a"/>
+  <path d="M28 42c2-2 6-2 8 0" stroke="#0f172a" stroke-width="3" stroke-linecap="round"/>
+</svg>
